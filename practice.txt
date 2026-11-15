@@ -1,1 +1,4 @@
 I am learning Git. This is rep 1.
+
+Rep 2: staging everything at once 
+
